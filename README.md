@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shyamsunder24
 - 👀 I’m interested in Building wedsites 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me b.shyamsunder2004@gmail.com
 - 😄 Pronouns: He/Him
 
