@@ -1,4 +1,4 @@
-### Hi, I'm Shyamsunder 👋
+### Hi, I'm Shyam Sunder Reddy 👋
 
 - **About Me:** I'm a web developer with a keen interest in **Data Structures and Algorithms (DSA)** and building engaging and functional websites.
 - **Currently Learning:** My focus is on mastering **Spring Boot** to enhance my backend development skills.
